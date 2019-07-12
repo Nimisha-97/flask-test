@@ -19,7 +19,32 @@ response = [
     "Winter is Coming",
     "Stay hungry...stay foolish"
 ]
-
+a = [
+    "If someone says you can do it. Do it twice and take pictures",
+    "You are doing really good.",
+    "Everything is possible if you don't make a choice",
+    "Whatever happens life has to Go On",
+    "Winter is Coming",
+    "Stay hungry...stay foolish",
+    "If someone says you can do it. Do it twice and take pictures",
+    "You are doing really good.",
+    "Everything is possible if you don't make a choice",
+    "Whatever happens life has to Go On",
+    "Winter is Coming",
+    "Stay hungry...stay foolish",
+    "If someone says you can do it. Do it twice and take pictures",
+    "You are doing really good.",
+    "Everything is possible if you don't make a choice",
+    "Whatever happens life has to Go On",
+    "Winter is Coming",
+    "Stay hungry...stay foolish",
+    "If someone says you can do it. Do it twice and take pictures",
+    "You are doing really good.",
+    "Everything is possible if you don't make a choice",
+    "Whatever happens life has to Go On",
+    "Winter is Coming",
+    "Stay hungry...stay foolish"
+]
 @app.route("/")
 @app.route("/home")
 def home():
