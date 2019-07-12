@@ -1,7 +1,7 @@
 from flask import Flask,render_template
 from random import randrange
 app = Flask(__name__)
-num1
+
 response = [
     "If someone says you can do it. Do it twice and take pictures",
     "You are doing really good.",
